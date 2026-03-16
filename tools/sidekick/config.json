@@ -1,6 +1,6 @@
 {
-  "project": "edgemartech",
-  "host": "main--edgemartech--vishalbansal1508.hlx.page",
+  "project": "edgemarTech",
+  "host": "main--edgemarTech--vishalbansal1508.hlx.page",
   "plugins": [
     {
       "id": "drive",
